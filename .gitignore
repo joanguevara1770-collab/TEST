@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+.DS_Store
+*.log
+*.tsbuildinfo
+apps/web/src/*.js
+apps/web/src/pages/*.js
+apps/web/src/components/*.js
